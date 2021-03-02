@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user/user",
+    "pages/personal/personal",
+    "pages/news/news",
+    "pages/friend/friend",
+    "pages/city/city",
+    "pages/follow/follow",
+    "pages/changeCity/changeCity",
+    "pages/changeInfo/changeInfo",
+    "pages/modify/modify",
+    "pages/player/player"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index"
+      },
+      {
+        "pagePath": "pages/follow/follow"
+      },
+      {
+        "pagePath": "pages/friend/friend"
+      },
+      {
+        "pagePath": "pages/news/news"
+      },
+      {
+        "pagePath": "pages/personal/personal"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap68.json"
+}

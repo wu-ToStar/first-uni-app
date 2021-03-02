@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @import url("../../static/css/icon/iconfont"); */
+.firstNav {
+	width: 100%;
+	position: fixed;
+	top: 30px;
+	left: 0;
+	height: 35px;
+	line-height: 35px;
+	margin: 0 auto;
+	color: white;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	/* background-color: #000000; */
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	z-index: 21;
+}
+.iconfont {
+	color: white;
+	z-index: 99;
+	width: 20px;
+	height: 20px;
+}
+.middle {
+	text-align: center;
+}
+.text {
+	display: inline;
+	margin: 0 19px;
+}
+

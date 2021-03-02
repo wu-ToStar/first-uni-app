@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "city-header": "/components/cityContent/cityHeader",
+    "change-list": "/components/cityContent/changeList",
+    "change-alphabet": "/components/cityContent/changeAlphabet"
+  }
+}

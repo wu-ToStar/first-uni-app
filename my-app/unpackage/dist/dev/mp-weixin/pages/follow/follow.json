@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "follow",
+  "usingComponents": {
+    "follow-nav": "/components/follow/followNav",
+    "follow-list": "/components/follow/followList",
+    "tab": "/components/tab/Tab"
+  }
+}

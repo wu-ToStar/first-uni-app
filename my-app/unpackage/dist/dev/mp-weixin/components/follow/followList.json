@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "folllow-play": "/components/follow/followPlay"
+  }
+}

@@ -1,0 +1,19 @@
+
+.followPlay {
+	height: 100%;
+	width: 100%;
+}
+.video {
+	width: 68%;
+	height: 100%;
+	z-index: 19;
+	position: relative;
+}
+.icon{
+	position: absolute;
+	bottom: 10px;
+	right:10px;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+

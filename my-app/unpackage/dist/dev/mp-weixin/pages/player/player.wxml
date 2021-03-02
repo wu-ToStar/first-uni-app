@@ -1,0 +1,1 @@
+<view class="Player"><video-list vue-id="02ed2720-1" list="{{list}}" bind:__l="__l"></video-list></view>

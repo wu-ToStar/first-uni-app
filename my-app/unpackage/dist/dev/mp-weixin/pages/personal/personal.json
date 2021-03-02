@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "tab": "/components/tab/Tab",
+    "personal-info": "/components/personal/personalInfo",
+    "personal-list": "/components/personal/personalList",
+    "follow-list": "/components/follow/followList"
+  }
+}

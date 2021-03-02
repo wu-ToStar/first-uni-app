@@ -1,0 +1,58 @@
+
+.listleft {
+	/* height: 150px; */
+	margin-left: 10px;
+	color: #fff;
+	width: 120px;
+	z-index: 1;
+}
+.author {
+	height: 35px;
+	line-height: 35px;
+	font-size: 15px;
+	/*控制长度 */
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.title {
+	line-height: 20px;
+	font-size: 12px;
+	width: 100%;
+	word-wrap: break-word;
+	overflow: hidden;
+	/* height: 50%; */
+}
+.box {
+	width: 100px;
+	overflow: hidden;
+}
+.music {
+	width: 140px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 12px;
+	-webkit-animation: 4s music linear 0.2s infinite;
+	        animation: 4s music linear 0.2s infinite;
+}
+@-webkit-keyframes music {
+from {
+		-webkit-transform: translate3d(80%, 0, 0);
+		        transform: translate3d(80%, 0, 0);
+}
+to {
+		-webkit-transform: translate3d(-80%, 0, 0);
+		        transform: translate3d(-80%, 0, 0);
+}
+}
+@keyframes music {
+from {
+		-webkit-transform: translate3d(80%, 0, 0);
+		        transform: translate3d(80%, 0, 0);
+}
+to {
+		-webkit-transform: translate3d(-80%, 0, 0);
+		        transform: translate3d(-80%, 0, 0);
+}
+}
+

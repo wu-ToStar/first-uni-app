@@ -1,0 +1,46 @@
+
+.videoList {
+	height: 100%;
+	width: 100%;
+}
+.swiper-box {
+	height: 100%;
+	width: 100%;
+}
+.swiper {
+	height: 100%;
+	width: 100%;
+}
+.swiper-item {
+	z-index: 20;
+	height: 100%;
+	width: 100%;
+	background-color: #0077AA;
+}
+.left-box {
+	z-index: 20;
+	position: absolute;
+	bottom: 50px;
+	left: 10px;
+}
+.right-box {
+	z-index: 20;
+	position: absolute;
+	bottom: 50px;
+	right: 10px;
+}
+.comment-box {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 90;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	height: 350px;
+	width: 100%;
+}
+

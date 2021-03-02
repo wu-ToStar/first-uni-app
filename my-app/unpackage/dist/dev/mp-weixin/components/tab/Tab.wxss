@@ -1,0 +1,32 @@
+
+.tab {
+	height: 50px;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	z-index: 99;
+}
+.tab-box {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	text-align: center;
+	line-height: 50px;
+	color: #fff;
+	background-color: #000;
+}
+.icon-box{
+	width: 70%;
+	height: 30px;
+	background-color: #fff;
+	color: #000;
+	margin: 10px 20%;
+	line-height: 30px;
+	border-radius: 5px;
+	font-size: 15px;
+}
+

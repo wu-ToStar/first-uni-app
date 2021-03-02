@@ -1,0 +1,86 @@
+{
+  "id": "2391420",
+  "name": "uni-app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1638231",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "10854530",
+      "name": "微信 分享页",
+      "font_class": "weixinfenxiangye",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "17779999",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "17812225",
+      "name": "心 爱心",
+      "font_class": "xinaixin1",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "6562066",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "9512532",
+      "name": "叉",
+      "font_class": "cross",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "18431007",
+      "name": "图标_界面_抖音评论",
+      "font_class": "tubiao_jiemian_douyinpinglun",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "6858509",
+      "name": "live",
+      "font_class": "live",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "14282723",
+      "name": "搜索--1",
+      "font_class": "xingtaiduICON_sousuo--",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "15917333",
+      "name": "返 回",
+      "font_class": "fanhui",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "18427009",
+      "name": "加号",
+      "font_class": "plus",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

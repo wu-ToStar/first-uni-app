@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "tab": "/components/tab/Tab",
+    "first-nav": "/components/firstNav/firstNav",
+    "city-content": "/components/cityContent/cityContent"
+  }
+}
